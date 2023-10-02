@@ -19,8 +19,14 @@ input[type="password"]
    padding:5px;
    margin-bottom:10px;
 }
-button[type="submit"]
+button[type="submit"]:h
 {
     padding-top:10px;
     padding-bottom:10px;
+    padding-right:20px;
+    padding-left:20px;
+    background-color:#4CAF50;
+    color:white;
+    border:none;
+    cursor:pointer;
 }
