@@ -43,4 +43,7 @@ button[type="submit"]
     border:none;
     cursor:pointer;
 }
-button[type="submit"]:hover
+button[type="submit"]
+{
+    background-color:#4CAF50 ;
+}
