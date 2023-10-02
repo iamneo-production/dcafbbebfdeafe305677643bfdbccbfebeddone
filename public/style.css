@@ -19,7 +19,7 @@ input[type="password"]
    padding:5px;
    margin-bottom:10px;
 }
-button[type="submit"]:h
+button[type="submit"]
 {
     padding-top:10px;
     padding-bottom:10px;
@@ -30,3 +30,4 @@ button[type="submit"]:h
     border:none;
     cursor:pointer;
 }
+button[type="submit"]:hover
