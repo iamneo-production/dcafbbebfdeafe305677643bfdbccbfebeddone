@@ -12,7 +12,15 @@ label
    display: block; 
    margin-bottom:5px;
 }
-input
+input[type="text"]
+input[type="password"]
 {
-    
+   width:300px; 
+   padding:5px;
+   margin-bottom:10px;
+}
+button[type="submit"]
+{
+    padding-top:10px;
+    padding-bottom:10px;
 }
